@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanCode_PaySystems", "CleanCode_PaySystems.csproj", "{BB39D68A-CB2A-4868-8A33-8449046C5473}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0D4AFBC8-F5C4-49B7-9C59-A40D061BCB79}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB39D68A-CB2A-4868-8A33-8449046C5473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB39D68A-CB2A-4868-8A33-8449046C5473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB39D68A-CB2A-4868-8A33-8449046C5473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB39D68A-CB2A-4868-8A33-8449046C5473}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF3E7084-604B-49BB-BAD9-6242C49E5986}
+	EndGlobalSection
+EndGlobal

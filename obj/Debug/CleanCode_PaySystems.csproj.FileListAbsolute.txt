@@ -1,0 +1,7 @@
+C:\Users\Ivan\Desktop\С#_Unity3D\Napilnik\CleanCode_PaySystems\bin\Debug\CleanCode_PaySystems.exe.config
+C:\Users\Ivan\Desktop\С#_Unity3D\Napilnik\CleanCode_PaySystems\bin\Debug\CleanCode_PaySystems.exe
+C:\Users\Ivan\Desktop\С#_Unity3D\Napilnik\CleanCode_PaySystems\bin\Debug\CleanCode_PaySystems.pdb
+C:\Users\Ivan\Desktop\С#_Unity3D\Napilnik\CleanCode_PaySystems\obj\Debug\CleanCode_PaySystems.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\С#_Unity3D\Napilnik\CleanCode_PaySystems\obj\Debug\CleanCode_PaySystems.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\С#_Unity3D\Napilnik\CleanCode_PaySystems\obj\Debug\CleanCode_PaySystems.exe
+C:\Users\Ivan\Desktop\С#_Unity3D\Napilnik\CleanCode_PaySystems\obj\Debug\CleanCode_PaySystems.pdb
